@@ -41,7 +41,6 @@ const CatalogListPage = () => {
   };
 
   const handleFilterSelect = (item) => {
-    setSearchString("");
     setSelectedFilter(item);
   };
 
