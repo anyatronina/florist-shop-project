@@ -21,6 +21,7 @@ const CatalogListPage = () => {
   const [priceSlider, setPriceSlider] = useState([]);
   const [selectedFilter, setSelectedFilter] = useState();
   const [sortBy, setSortBy] = useState({ iter: "name", order: "asc" });
+  const [valueDefault, setValue] = useState(true);
 
   const handleSearchItem = ({ target }) => {
     setSearchString(target.value);
@@ -36,6 +37,7 @@ const CatalogListPage = () => {
 
   const handleChange = (target) => {
     setSortBy(sort(target));
+    setValue(false);
   };
 
   const handleFilterSelect = (item) => {
@@ -86,6 +88,8 @@ const CatalogListPage = () => {
 
     const clearFilter = () => {
       setCurrentPage(1);
+      setSortBy({ iter: "name", order: "asc" });
+      setValue(true);
       setSearchString("");
       setSelectedFilter();
       setPriceSlider([]);
@@ -98,7 +102,7 @@ const CatalogListPage = () => {
             value={searchString}
             onChange={handleSearchItem}
           ></SearchLine>
-          <Sorting onChange={handleChange} />
+          <Sorting valueDefault={valueDefault} onChange={handleChange} />
           <SliderPrice
             price={price}
             priceSlider={priceSlider}

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Sorting = ({ onChange }) => {
+const Sorting = ({ valueDefault, onChange }) => {
   const options = [
     { value: 1, name: "По названию" },
     { value: 2, name: "Сначала дешевые" },
@@ -20,7 +20,11 @@ const Sorting = ({ onChange }) => {
         onChange={handleChange}
       >
         {options.map((option) => (
-          <option key={option.value} value={option.value}>
+          <option
+            key={option.value}
+            value={option.value}
+            selected={valueDefault && option.value === 1 ? true : false}
+          >
             {option.name}
           </option>
         ))}
