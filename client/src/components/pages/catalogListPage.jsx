@@ -53,7 +53,15 @@ const CatalogListPage = () => {
 
     const filtered = ArrIsLoaded.length === 0 ? items : ArrIsLoaded;
     if (selectedFilter)
-      return filtered.filter((item) => item.category === selectedFilter._id);
+      return searchString.trim() === ""
+        ? filtered.filter((item) => item.category === selectedFilter._id)
+        : filtered.filter(
+            (item) =>
+              item.category === selectedFilter._id &&
+              item.name
+                .toLowerCase()
+                .includes(searchString.toLowerCase().trim())
+          );
     if (searchString.trim() !== "") {
       return filtered.filter((item) =>
         item.name.toLowerCase().includes(searchString.toLowerCase().trim())

@@ -4,7 +4,7 @@ const GroupList = ({ selectedItem, onItemSelect }) => {
   const items = [
     { _id: "1", name: "Цветы поштучно" },
     { _id: "2", name: "Авторские букеты" },
-    { _id: "3", name: "Букеты в коробке" }
+    { _id: "3", name: "Букеты в корзине" }
   ];
 
   return (
