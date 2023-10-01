@@ -43,7 +43,6 @@ const FlowerPage = ({ itemId }) => {
     };
 
     const handleFavorites = () => {
-      closeModal();
       if (!loggedIn) {
         return history.push(`/login`);
       }
