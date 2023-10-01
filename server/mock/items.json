@@ -1,0 +1,464 @@
+[
+  {
+    "_id": "1",
+    "name": "Фрезия",
+    "price": 190,
+    "img": "freesia",
+    "category": "1"
+  },
+  {
+    "_id": "2",
+    "name": "Гвоздика розовая Помероса",
+    "price": 130,
+    "img": "gvozdika-pink",
+    "category": "1"
+  },
+  {
+    "_id": "3",
+    "name": "Лилия",
+    "price": 650,
+    "img": "liliya",
+    "category": "1"
+  },
+  {
+    "_id": "4",
+    "name": "Гипсофила радужный микс",
+    "price": 340,
+    "img": "raduzhnaja-gipsofila",
+    "category": "1"
+  },
+  {
+    "_id": "5",
+    "name": "Ромашки",
+    "price": 240,
+    "img": "romashka",
+    "category": "1"
+  },
+  {
+    "_id": "6",
+    "name": "Статица персиковая",
+    "price": 180,
+    "img": "statica-persikovaja",
+    "category": "1"
+  },
+  {
+    "_id": "7",
+    "name": "Гладиолус белый",
+    "price": 280,
+    "img": "belye_gladiolusy",
+    "category": "1"
+  },
+  {
+    "_id": "8",
+    "name": "Гладиолус фиолетовый",
+    "price": 280,
+    "img": "gladiolus_fioletovyj",
+    "category": "1"
+  },
+  {
+    "_id": "9",
+    "name": "Роза красная",
+    "price": 95,
+    "img": "rosy_red",
+    "category": "1"
+  },
+  {
+    "_id": "10",
+    "name": "Роза сиреневая",
+    "price": 110,
+    "img": "rosy_lilac",
+    "category": "1"
+  },
+  {
+    "_id": "11",
+    "name": "Роза Ред Наоми",
+    "price": 220,
+    "img": "rosy_red-naomi",
+    "category": "1"
+  },
+  {
+    "_id": "12",
+    "name": "Роза кустовая Джульетта",
+    "price": 420,
+    "img": "rosy_Julietta",
+    "category": "1"
+  },
+  {
+    "_id": "13",
+    "name": "Хризантема желтая",
+    "price": 290,
+    "img": "hrizantema-zheltaja",
+    "category": "1"
+  },
+  {
+    "_id": "14",
+    "name": "Хризантема розовая Росана",
+    "price": 290,
+    "img": "hrizantema-rozova-rosana",
+    "category": "1"
+  },
+  {
+    "_id": "15",
+    "name": "Хризантема кустовая Серинити",
+    "price": 240,
+    "img": "hrizantema-kustovaja-seriniti",
+    "category": "1"
+  },
+  {
+    "_id": "16",
+    "name": "Роза кустовая Сильвер Шедоу",
+    "price": 200,
+    "img": "kustovaja-roza-silver-shedou",
+    "category": "1"
+  },
+  {
+    "_id": "17",
+    "name": "Роза кустовая Гранд Трендсеттер",
+    "price": 340,
+    "img": "kustovaya-roza-grand-trendsetter",
+    "category": "1"
+  },
+  {
+    "_id": "18",
+    "name": "Роза Фри Спирит",
+    "price": 260,
+    "img": "rosy-fri-spirit",
+    "category": "1"
+  },
+  {
+    "_id": "19",
+    "name": "Кустовая пионовидная роза Джелато",
+    "price": 380,
+    "img": "rosy-zhelato",
+    "category": "1"
+  },
+  {
+    "_id": "20",
+    "name": "Кустовая пионовидная роза Свит Джелато",
+    "price": 380,
+    "img": "rosy-svit_zhelato",
+    "category": "1"
+  },
+  {
+    "_id": "21",
+    "name": "Пионовидная роза Кахала",
+    "price": 120,
+    "img": "pionovidnaja-roza-kahala",
+    "category": "1"
+  },
+  {
+    "_id": "22",
+    "name": "Роза Кахала",
+    "price": 260,
+    "img": "rosy-kahala",
+    "category": "1"
+  },
+  {
+    "_id": "23",
+    "name": "Кустовая пионовидная роза Саммер",
+    "price": 380,
+    "img": "kustovaja-pionovidnaja-roza-sammer-roz",
+    "category": "1"
+  },
+  {
+    "_id": "24",
+    "name": "Хризантема Сантини розовая",
+    "price": 170,
+    "img": "hrizantema-santini-rose",
+    "category": "1"
+  },
+  {
+    "_id": "25",
+    "name": "Гвоздика розовая",
+    "price": 130,
+    "img": "gvozdika-rozovaya",
+    "category": "1"
+  },
+  {
+    "_id": "26",
+    "name": "Гвоздика нежно-розовая",
+    "price": 130,
+    "img": "gvozdika-light-rozovaya",
+    "category": "1"
+  },
+  {
+    "_id": "27",
+    "name": "Гвоздика Яблочный чай",
+    "price": 130,
+    "img": "gvozdika-apple-tea",
+    "category": "1"
+  },
+  {
+    "_id": "28",
+    "name": "Гвоздика белая",
+    "price": 130,
+    "img": "gvozdika-belaya",
+    "category": "1"
+  },
+  {
+    "_id": "29",
+    "name": "Пионы Сара Бернар",
+    "price": 600,
+    "img": "rozovye-piony-sarabernar",
+    "category": "1"
+  },
+  {
+    "_id": "30",
+    "name": "Гиперикум белый",
+    "price": 320,
+    "img": "giperikum-belyj",
+    "category": "1"
+  },
+  {
+    "_id": "31",
+    "name": "Эвкалипт",
+    "price": 250,
+    "img": "eucalyptus",
+    "category": "1"
+  },
+  {
+    "_id": "32",
+    "name": "Тюльпан лиловый Sugar Prince",
+    "price": 120,
+    "img": "tjulpan-lilovy-shugar-princ",
+    "category": "1"
+  },
+  {
+    "_id": "33",
+    "name": "Танацетум желтый",
+    "price": 220,
+    "img": "hrizantema-tanacetum-zheltyj",
+    "category": "1"
+  },
+  {
+    "_id": "34",
+    "name": "Тюльпан белый Antarctica",
+    "price": 120,
+    "img": "tjulpan-bely-antarctica",
+    "category": "1"
+  },
+  {
+    "_id": "35",
+    "name": "Тюльпан красный Red life",
+    "price": 120,
+    "img": "red-tulip",
+    "category": "1"
+  },
+  {
+    "_id": "36",
+    "name": "Тюльпан темно-розовый",
+    "price": 120,
+    "img": "tjulpan-temno-rozovyj",
+    "category": "1"
+  },
+  {
+    "_id": "37",
+    "name": "Тюльпан желтый с малиновой окантовкой",
+    "price": 120,
+    "img": "tjulpan-zheltyj-s-malinovoj-okantovkoj-cape-town",
+    "category": "1"
+  },
+  {
+    "_id": "38",
+    "name": "Гвоздика бордовая",
+    "price": 110,
+    "img": "gvozdika-bordovaya",
+    "category": "1"
+  },
+  {
+    "_id": "39",
+    "name": "Фиолетовые пионы",
+    "price": 340,
+    "img": "malinovye-piony",
+    "category": "1"
+  },
+  {
+    "_id": "40",
+    "name": "Пионы гранатовые",
+    "price": 340,
+    "img": "pion_granatovyj",
+    "category": "1"
+  },
+  {
+    "_id": "41",
+    "name": "Пионы Белая Сара",
+    "price": 340,
+    "img": "pion_sara_belaya",
+    "category": "1"
+  },
+  {
+    "_id": "42",
+    "name": "Кустовая хризантема Бакарди",
+    "price": 240,
+    "img": "hrizantema_bakkardi_oranzhevaya",
+    "category": "1"
+  },
+  {
+    "_id": "43",
+    "name": "Лимонные пионы",
+    "price": 340,
+    "img": "limonnyj_pion",
+    "category": "1"
+  },
+  {
+    "_id": "44",
+    "name": "Корзина ромашек",
+    "price": 4380,
+    "img": "korzina-s-romashkami",
+    "category": "3"
+  },
+  {
+    "_id": "45",
+    "name": "Корзина с шоколадом и клубникой",
+    "price": 10990,
+    "img": "korzina-s-kindkr-sjurprizami-i-rafajello",
+    "category": "3"
+  },
+  {
+    "_id": "46",
+    "name": "Корзина с персиковыми и белыми цветами",
+    "price": 11990,
+    "img": "korzina-s-persikovymi-i-belymi-cvetami1",
+    "category": "3"
+  },
+  {
+    "_id": "47",
+    "name": "11 пионов Сара Бернар с эвкалиптом в корзине",
+    "price": 7180,
+    "img": "11_pionov_sara_bernar_s_evkaliptom",
+    "category": "3"
+  },
+  {
+    "_id": "48",
+    "name": "Сборная корзина с цветами Градиент",
+    "price": 9680,
+    "img": "korzina_s_cvetami_gradient",
+    "category": "3"
+  },
+  {
+    "_id": "49",
+    "name": "Радужная гипсофила в корзине",
+    "price": 1990,
+    "img": "raduzhnaya_gipsofila_v_korzine",
+    "category": "3"
+  },
+  {
+    "_id": "50",
+    "name": "Подсолнухи в корзине",
+    "price": 8280,
+    "img": "podsolnuhi_v_korzine",
+    "category": "3"
+  },
+  {
+    "_id": "51",
+    "name": "Пионовидные розы в корзине",
+    "price": 4990,
+    "img": "korzina-s-pionovidnymi-rozami",
+    "category": "3"
+  },
+  {
+    "_id": "52",
+    "name": "75 ярких тюльпанов в корзине",
+    "price": 8990,
+    "img": "75-jarkih-tjulpanov-v-korzine",
+    "category": "3"
+  },
+  {
+    "_id": "53",
+    "name": "Букет Нежный поцелуй",
+    "price": 7680,
+    "img": "nejniy_poceluy",
+    "category": "2"
+  },
+  {
+    "_id": "54",
+    "name": "Цветы в коробке с розой и диантусом",
+    "price": 4790,
+    "img": "cvety_v_korobke_Mishenka_s_rozoj_i_diantusom",
+    "category": "2"
+  },
+  {
+    "_id": "55",
+    "name": "Цветы в коробке с розами и орхидеей",
+    "price": 5680,
+    "img": "cvety_v_korobke_Koshechka_s_rozami_i_orhideej",
+    "category": "2"
+  },
+  {
+    "_id": "56",
+    "name": "Букет дня Классика",
+    "price": 8390,
+    "img": "buket_classica",
+    "category": "2"
+  },
+  {
+    "_id": "57",
+    "name": "Букет Даниэлла",
+    "price": 5780,
+    "img": "buket_daniella",
+    "category": "2"
+  },
+  {
+    "_id": "58",
+    "name": "Авторский букет Нежные сны",
+    "price": 2680,
+    "img": "avtorskij-buket-nezhnye-sny",
+    "category": "2"
+  },
+  {
+    "_id": "59",
+    "name": "Авторский букет Для самой нежной",
+    "price": 4990,
+    "img": "avtorskij-buket-dlja-samoj-nezhnoj",
+    "category": "2"
+  },
+  {
+    "_id": "60",
+    "name": "Экстремальная Гортензия",
+    "price": 9590,
+    "img": "exstrim_gortenziya",
+    "category": "2"
+  },
+  {
+    "_id": "61",
+    "name": "Авторский букет Для тебя",
+    "price": 4790,
+    "img": "avtorskij-buket-dlja-tebja",
+    "category": "2"
+  },
+  {
+    "_id": "62",
+    "name": "Цветочная фантазия",
+    "price": 5630,
+    "img": "fantazy_buket",
+    "category": "2"
+  },
+  {
+    "_id": "63",
+    "name": "Букет Свежее утро с каллами и розами",
+    "price": 3680,
+    "img": "buket_svezhee_utro_s_kallami_i_rozami",
+    "category": "2"
+  },
+  {
+    "_id": "64",
+    "name": "Авторский букет Яркое настроение",
+    "price": 6440,
+    "img": "avtorskij-buket-Jarkoe-nastroenie",
+    "category": "2"
+  },
+  {
+    "_id": "65",
+    "name": "Милый идеал с пионовидной розой",
+    "price": 8680,
+    "img": "milyj_ideal_s_pionovidnoj_rozoj",
+    "category": "2"
+  },
+  {
+    "_id": "66",
+    "name": "Авторский букет Романтический вечер",
+    "price": 4240,
+    "img": "avtorskij-buket-romanticheskij-vecher",
+    "category": "2"
+  }
+]

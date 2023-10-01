@@ -1,0 +1,8 @@
+{
+  "apiEndPoint": "http://79.141.77.149/api/",
+  "isFirebase": false,
+  "admin": {
+    "email": "admin@mail.ru",
+    "password": "Test1234"
+  }
+}
